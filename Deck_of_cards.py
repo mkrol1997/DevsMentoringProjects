@@ -6,7 +6,8 @@ class Deck:
 
     def __init__(self):
         # Initialize deck of 52 unique cards
-        self.deck = [Card(symbol, color) for symbol in Deck.card_symbols for color in Deck.card_colors]
+        self.deck = [Card(symbol, color) for symbol in Deck.card_symbols
+                     for color in Deck.card_colors]
 
     def __repr__(self):
         return ", ".join([card.__str__() for card in self.deck])
