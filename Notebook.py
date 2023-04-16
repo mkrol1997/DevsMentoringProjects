@@ -40,6 +40,7 @@ def main():
 
     notebook.add_new_note('Bartek', 'Wake up at 6 AM')
     notebook.add_new_note('Kacper', 'Eat proper breakfast')
+    notebook.add_new_note('Damian', 'Learn new language')
 
     new_note = Note('Kazimierz', 'Drink more water')
     notebook.add_note(new_note)
