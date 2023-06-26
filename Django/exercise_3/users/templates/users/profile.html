@@ -1,0 +1,16 @@
+{% extends 'users/base.html' %}
+{% block content %}
+
+    <div class="content-section">
+        <div class="media">
+            <div class="media-body">
+                <h3 class="account-heading">Hi, {{ user.username }}! </h3>
+                <h3>You’ve been with us since: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ date_joined }}.</h3>
+                <br>
+                <p class="txt-secondary">Email: {{ user.email }}</p>
+                <br>
+                <p class="txt-primary">Last failed loggin attempt: {{ user.profile.last_failed_login }}</p>
+            </div>
+        </div>
+    </div>
+{% endblock %}
