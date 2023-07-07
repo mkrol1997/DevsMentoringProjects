@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <ul>
+      {% for site in sites %}
+        <li style="margin-bottom: 10px; font-size: 30px"><a href="{{ site.url }}">{{ site.url }}</a> </li>
+      {% endfor %}
+    </ul>
+</body>
+</html>
