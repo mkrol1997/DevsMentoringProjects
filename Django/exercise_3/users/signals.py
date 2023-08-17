@@ -18,5 +18,5 @@ def update_recent_user_failed_login_date(sender, credentials, **kwargs) -> None:
     user = User.objects.filter(username=username).first()
 
     if user:
-        user.profile.last_failed_login = datetime.now()
+        user.profile.last_failed_login = datetime.today()
         user.profile.save()
