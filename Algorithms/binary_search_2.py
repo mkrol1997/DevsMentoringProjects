@@ -25,7 +25,7 @@ def main():
     number_of_riddles = int(input())
     values = [input().split(" ") for _ in range(number_of_riddles)]
 
-    for riddle, variables in zip(range(number_of_riddles), values):
+    for variables in values:
         result = binary_search(
             p=int(variables[0]),
             q=int(variables[1])
