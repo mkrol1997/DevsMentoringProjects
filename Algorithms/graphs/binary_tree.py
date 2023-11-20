@@ -34,7 +34,7 @@ class TreeNode:
     def right(self, new_value: TreeNode) -> None:
         self._right = new_value
 
-    def str(self) -> str:
+    def __str__(self) -> str:
         return f"Node: {self._value}"
 
 
