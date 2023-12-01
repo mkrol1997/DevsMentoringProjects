@@ -2,45 +2,45 @@
 
 Welcome to my mentoring program exercises repository! Here, I've documented various exercises and projects completed during my mentoring journey. This repository encompasses a diverse range of technologies, concepts, and projects that I've worked on. 🚀🚀
 
-## 🛠️🛠️ Technologies and Concepts Covered 🛠️🛠️
+## 🛠️ Technologies and Concepts Covered 
 
-### 💻🐍 Programming Languages 🐍💻
+### 🐍 Programming Languages
 - **Python**: Exercises and projects involving Python programming language. 
 - **Javascript**: Implementation and practice with Javascript. 
 
-### 🌐 Web Frameworks 🌐
+### 🌐 Web Frameworks
 - **Django**: Applications, exercises, and concepts in the Django framework. 
 - **Flask**: Projects and exercises using the Flask framework. 
 - **Django REST Framework (DRF)**: REST API development using DRF. 
 
-### 🗄️🧪 Testing & Development Methodologies 🧪🗄️
+### 🧪 Testing & Development Methodologies
 - **Pytest**: Testing framework for Python. 
 - **Unittest**: Python's built-in unit testing framework.
 - **TDD / BDD**: Experience with Test-Driven Development and Behavior-Driven Development.
 
-### 🌐🔄 Operating Systems & Environments 🔄🌐
-- **Windows**: Familiarity and development experience on the Windows platform. 🪟
-- **Linux**: Proficient in Linux-based environments. 🐧
+### 🐧 Operating Systems & Environments 
+- **Windows**: Familiarity and development experience on the Windows platform.
+- **Linux**: Proficient in Linux-based environments. 
 
-### 🗄️💻 Shell Scripting & Tools 🗄️💻
+### 🗄️ Shell Scripting & Tools 
 - **Bash**: Proficiency in Bash scripting. 
 - **ORM (Object-Relational Mapping)**: Experience with ORM tools for database interaction. 
 
-### 🏗️🎨 Additional Concepts 🎨🏗️
+### 🏗️ Additional Concepts
 - **Bootstrap & Tailwind CSS**: Implementation and styling with popular CSS frameworks. 
 - **WebSocket**: Understanding and application of WebSocket technology. 
 - **SOLID Principles**: Application of SOLID principles in software design. 
 - **Multithreading**: Experience with multithreading concepts and implementation. 
 
-### ☁️🐳🧊 Containerization & Cloud Services 🧊🐳☁️
+### 🐳 Containerization & Cloud Services 
 - **Docker**: Exercises and projects involving Docker containers. 
 - **AWS (Amazon Web Services)**: Utilization of various AWS services. 
 - **Portainer**: Usage and exercises related to the Portainer container management tool. 
 
-### 🧩🧩 Algorithms & Data Structures 🧩🧩
+### 🧩 Algorithms & Data Structures 
 - Implementations and practice exercises covering various algorithms and data structures. 
 
-### 🗃️🐘 Databases 🐘🗃️
+### 🐘 Databases 
 - **Relational Databases**: Work involving SQL-based databases.
     - **SQLite**: Exercises and projects using SQLite. 
     - **PostgreSQL**: Projects and exercises in PostgreSQL database. 
