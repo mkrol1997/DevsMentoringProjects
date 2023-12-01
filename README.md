@@ -1,16 +1,12 @@
-# Mentoring Programme Projects Repository
+ # 🎓⭐  Mentoring Programme Projects Repository ⭐ 🎓
 
 ![python version](https://img.shields.io/badge/python-3.12-yellow.svg)
 ![django version](https://img.shields.io/badge/Django-4.2.3-green.svg)
 ![drf version](https://img.shields.io/badge/DRF-3.9.3-cyan.svg)
 ![flask version](https://img.shields.io/badge/pytorch-1.7-orange.svg)
 ![celery version](https://img.shields.io/badge/Celery-5.3.4-blue.svg)
-![docker version](https://img.shields.io/badge/Docker-4.20.1-darkblue.svg)
-![docker version](https://img.shields.io/badge/Docker--compose-2.21-cyan.svg)
-![docker version](https://img.shields.io/badge/Docker--compose-2.21-cyan.svg) 
-![docker version](https://img.shields.io/badge/Docker--compose-2.21-cyan.svg) 
-![docker version](https://img.shields.io/badge/Docker--compose-2.21-cyan.svg) 
-![docker version](https://img.shields.io/badge/Docker--compose-2.21-cyan.svg) 
+![unittest version](https://img.shields.io/badge/unittest-3.12-darkblue.svg)
+![PostgreSQL version](https://img.shields.io/badge/PostgreSQL-15-cyan.svg) 
 
 
 Welcome to my mentoring program exercises repository! Here, I've documented various exercises and projects completed during my mentoring journey. This repository encompasses a diverse range of technologies, concepts, and projects that I've worked on. 🚀🚀
