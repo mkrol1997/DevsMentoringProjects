@@ -6,7 +6,9 @@
 ![flask version](https://img.shields.io/badge/pytorch-1.7-orange.svg)
 ![celery version](https://img.shields.io/badge/Celery-5.3.4-blue.svg)
 ![unittest version](https://img.shields.io/badge/unittest-3.12-darkblue.svg)
-![PostgreSQL version](https://img.shields.io/badge/PostgreSQL-15-cyan.svg) 
+![PostgreSQL version](https://img.shields.io/badge/PostgreSQL-15-silver.svg) 
+![docker version](https://img.shields.io/badge/Docker-4.20.1-darkblue.svg)
+![docker version](https://img.shields.io/badge/Docker--compose-2.21-maroon.svg) 
 
 
 Welcome to my mentoring program exercises repository! Here, I've documented various exercises and projects completed during my mentoring journey. This repository encompasses a diverse range of technologies, concepts, and projects that I've worked on. 🚀🚀
