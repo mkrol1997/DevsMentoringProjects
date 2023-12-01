@@ -1,5 +1,18 @@
 # Mentoring Programme Projects Repository
 
+![python version](https://img.shields.io/badge/python-3.12-yellow.svg)
+![django version](https://img.shields.io/badge/Django-4.2.3-green.svg)
+![drf version](https://img.shields.io/badge/DRF-3.9.3-cyan.svg)
+![flask version](https://img.shields.io/badge/pytorch-1.7-orange.svg)
+![celery version](https://img.shields.io/badge/Celery-5.3.4-blue.svg)
+![docker version](https://img.shields.io/badge/Docker-4.20.1-darkblue.svg)
+![docker version](https://img.shields.io/badge/Docker--compose-2.21-cyan.svg)
+![docker version](https://img.shields.io/badge/Docker--compose-2.21-cyan.svg) 
+![docker version](https://img.shields.io/badge/Docker--compose-2.21-cyan.svg) 
+![docker version](https://img.shields.io/badge/Docker--compose-2.21-cyan.svg) 
+![docker version](https://img.shields.io/badge/Docker--compose-2.21-cyan.svg) 
+
+
 Welcome to my mentoring program exercises repository! Here, I've documented various exercises and projects completed during my mentoring journey. This repository encompasses a diverse range of technologies, concepts, and projects that I've worked on. 🚀🚀
 
 ## 🛠️ Technologies and Concepts Covered 
@@ -33,7 +46,8 @@ Welcome to my mentoring program exercises repository! Here, I've documented vari
 - **Multithreading**: Experience with multithreading concepts and implementation. 
 
 ### 🐳 Containerization & Cloud Services 
-- **Docker**: Exercises and projects involving Docker containers. 
+- **Docker**: Exercises and projects involving Docker containers.
+- **Docker-compose**: Exercises and projects involving Docker-compose stacks. 
 - **AWS (Amazon Web Services)**: Utilization of various AWS services. 
 - **Portainer**: Usage and exercises related to the Portainer container management tool. 
 
@@ -51,43 +65,52 @@ Welcome to my mentoring program exercises repository! Here, I've documented vari
 
 ### 1. Python Exercises
 - **Description**: Collection of Python programming exercises.
-- **Folder**: `/python-exercises`
-- **Topics Covered**: Python basics, advanced Python concepts.
+- **Directory**: `/Python_Basics`
+- **Topics Covered**: Python basics, OOP, Design Patterns.
 
-### 2. Web App Using Django
-- **Description**: Simple web application built using Django.
-- **Folder**: `/django-web-app`
-- **Features**: CRUD operations, user authentication.
+### 2. Python Functional Programming
+- **Description**: Collection of Python functional programming exercises.
+- **Directory**: `/Python_Advanced`
+- **Topics Covered**: Exceptions, Decorators, Generators, Map, Filter, Reduce.
+  
+### 3. Web App Using Django
+- **Description**: Simple web applications built using Django, Simple REST APIs built using DRF.
+- **Directory**: `/Django`
+- **Topics Covered**: CRUD operations, user authentication, UTs, REST.
 
-### 3. Django REST API
-- **Description**: RESTful API development using Django REST Framework.
-- **Folder**: `/django-rest-api`
-- **Features**: API endpoints, serializers, authentication.
-
-### 4. Dockerized Flask Application
-- **Description**: Flask app containerized with Docker.
-- **Folder**: `/docker-flask-app`
-- **Details**: Docker configuration files, Flask application code.
-
-### 5. Asynchronous Tasks with Celery
-- **Description**: Implementing asynchronous tasks using Celery.
-- **Folder**: `/celery-async-tasks`
-- **Usage**: Task queuing, asynchronous processing.
+### 4. Unit Tests
+- **Description**: Implementation of comprehensive unit tests for Python applications utilizing various testing frameworks and methodologies.
+- **Directory**: `/UTs`
+- **Topics Covered**: pytest, unittest, mocking, patch, fixture
+  
+### 5. Multithreading
+- **Description**: Implementing asynchronous tasks execution using threading, multiprocessing.
+- **Directory**: `/Python_Advanced/Multithreading`
+- **Topics Covered**: Asynchronous processing.
 
 ### 6. Algorithm Implementations
-- **Description**: Implementations of various algorithms.
-- **Folder**: `/algorithm-implementations`
-- **Topics**: Sorting algorithms, searching algorithms.
+- **Description**: Implementations of various algorithms and data structures.
+- **Directory**: `/Algorithms`
+- **Topics Covered**: Sorting algorithms, searching algorithms, Graphs, BST, Heap.
 
 ### 7. Relational Database Practice
 - **Description**: Working with relational databases.
-- **Folder**: `/database-practice`
-- **Databases**: SQLite, PostgreSQL.
+- **Directory**: `/SQL_Basics`
+- **Topics Covered**: SQL, SQLite, PostgreSQL.
 
+### 8. AWS Deployment
+- **Description**: Flask app containerized with Docker.
+- **Directory**: `/AWS`
+- **Topics Covered**: EC2, EDS, S3, ECR, ECS, EBN, Docker, Portainer.
+
+### 9. Dockerized Flask Application
+- **Description**: Flask app containerized with Docker.
+- **Directory**: `/Docker`
+- **Topics Covered**: Docker configuration files, Flask application code.
 ---
 
-## How to Use
+## ⭐️ How to Use ⭐
 
-Each folder within this repository contains its own README and instructions specific to the project or exercise. You can navigate to each folder to explore the code, follow the instructions, and run the projects.
+You can navigate to each folder to explore the code, follow the instructions, and run the projects.
 
 Feel free to reach out if you have any questions or suggestions!
